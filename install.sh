@@ -19,7 +19,7 @@ sudo usermod -a -G fredi $(whoami)
 sudo chown -R $(whoami):fredi /var/www/html
 sudo chgrp -R fredi /var/www/html
 
-projectFolder=/var/www/html/pleaky
+projectFolder=/var/www/html/fredi
 
 printf "${green}We are now going to clone the project${reset}\n"
 git clone git@github.com:iknsa/fredi.git $projectFolder
