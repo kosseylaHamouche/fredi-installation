@@ -8,7 +8,7 @@ The steps to follow is available here: https://drive.google.com/open?id=0B9HVbv2
 
 Clone the repository
 
-git clone git@github.com:iknsa-corp/pleaky-installation.git
+git clone git@github.com:kosseylaHamouche/fredi-installation.git
 
 Go into the newly cloned repository
 
